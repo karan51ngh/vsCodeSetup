@@ -1,0 +1,21 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.languageServer": "Microsoft",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.insertSpaces": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "material-icon-theme.folders.theme": "classic",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.lineHeight": 1,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "workbench.statusBar.visible": false,
+    "workbench.startupEditor": "none"
+}
